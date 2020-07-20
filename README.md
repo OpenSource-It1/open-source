@@ -20,7 +20,7 @@ At this time, we are accepting communities which meet the following criteria on 
   "description": "Description of your project",
   "inviteCode": "The public invite code to your project, usually the code after https://discord.gg/",
   "githubUrl": "The URL of your GitHub organization or project repository.",
-  "discordLink": "If your project has been added to Discord's Open Source repo, send the PR here."
+  "discordLink": "If your project has been added to Discord's Open Source repo, send the PR link here."
 }
 ```
 
