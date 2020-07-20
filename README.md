@@ -2,7 +2,7 @@
 
 ## Acceptance criteria
 
-At this time, we are accepting communities which meet the following criteria on Discord's [Open Source repo](https://github.com/discord/discord-open-source/blob/master/README.md).
+At this time, we are accepting any communities into our programme.
 
 ## Adding your project
 
