@@ -7,14 +7,12 @@ At this time, we are accepting communities which meet the following criteria on 
 ## Adding your project
 
 1. Fork the repo
-2.  Add your logo into [`/logos`](https://github.com/discordapp/discord-open-source/tree/master/logos)
+2. Add your logo into [`/logos`](https://github.com/OpenSource-It1/open-source/blob/master/logos) like so:
+2. Add your project into [`/projects`](https://github.com/OpenSource-It1/open-source/blob/master/projects/PROJECTS.md) like so:
 
-    * Logo dimensions should be either `72x72` for SVG or `144x144` for PNG.
-    * Logo should be minified.
-    * Logo should be monochromatic and white like Discord's [Open Source page](https://discord.com/open-source).
+**Logos Reminder**:
     * SVGs should contain only vector shapes — no raster graphics.
 
-3.  Add your community to [`communities.json`](https://github.com/OpenSource-It1/open-source/blob/master/communities.json), like so:
 
 ```json
 {
