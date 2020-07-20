@@ -1,6 +1,10 @@
 # Open Source Submissions
 
-# Adding Your Project
+# Acceptance criteria
+
+At this time, we are accepting communities which meet the following criteria on Discord's [Open Source repo](https://github.com/discord/discord-open-source/blob/master/README.md).
+
+## Adding your project
 
 1. Fork the repo
 2.  Add your logo into [`/logos`](https://github.com/discordapp/discord-open-source/tree/master/logos)
