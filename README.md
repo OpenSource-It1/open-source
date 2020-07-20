@@ -7,8 +7,7 @@ At this time, we are accepting communities which meet the following criteria on 
 ## Adding your project
 
 1. Fork the repo
-2. Add your logo into [`/logos`](https://github.com/OpenSource-It1/open-source/blob/master/logos) like so:
-2. Add your project into [`/projects`](https://github.com/OpenSource-It1/open-source/blob/master/projects/PROJECTS.md) like so:
+2. Add your logo into [`/logos`](https://github.com/OpenSource-It1/open-source/blob/master/logos) & your project into [`/projects`](https://github.com/OpenSource-It1/open-source/blob/master/projects/PROJECTS.md) like so:
 
 **Logos Reminder**:
     * SVGs should contain only vector shapes — no raster graphics.
